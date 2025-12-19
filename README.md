@@ -12,6 +12,10 @@ localhost webserver or your own webserver.
 
 Download the www/ folder and all of its contents. Start up a local webserver and open index.html in a browser.
 
+```
+cd www
+python3 -m http.server 8000
+```
 
 #### In your own site
 
